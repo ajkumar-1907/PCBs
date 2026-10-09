@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,Qty,LCSC Part #
+Keystone 3034 CR2032 SMD holder (bottom side),BT1,BatteryHolder_Keystone_3034_1x20mm,1,
+Capacitor 1uF X7R 0603,C1,C_0603_1608Metric,1,
+Capacitor 10nF X7R 0603,C2,C_0603_1608Metric,1,
+Capacitor 100nF X7R 0603,C3,C_0603_1608Metric,1,
+Capacitor 10uF X5R 0805,C4,C_0805_2012Metric,1,
+LED yellow 0805 (Vf ~2 V),"D1,D2,D3,D4,D5",LED_0805_2012Metric,5,
+Resistor 470R 1% 0603,"R1,R2,R3,R4,R5",R_0603_1608Metric,5,
+Resistor 10k 1% 0603,R6,R_0603_1608Metric,1,
+Resistor 680k 1% 0603,R7,R_0603_1608Metric,1,
+"TI TLC555CDR CMOS timer, SOIC-8",U1,SOIC-8_3.9x4.9mm_P1.27mm,1,

@@ -1,0 +1,12 @@
+# KiCad backups / local state
+*.kicad_prl
+*-backups/
+.history/
+fp-info-cache
+*.bak
+*.lck
+_autosave-*
+~*
+# OS
+.DS_Store
+Thumbs.db
